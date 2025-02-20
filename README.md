@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on my skills<br><br>🌱 I’m currently learning Java and Logic Building<br><br>❓ Ask me about anything related to C, C++, Java and related technologies</p>
+<p align="left">🔭 I’m currently working on my skills<br><br>🌱 I’m currently learning C, C++, Java and Logic Building<br><br>❓ Ask me about anything related to C, C++, Java and related technologies</p>
 
 ###
 
