@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anjali and I'm a Computer Engineer, from India</h2>
+<h2 align="left">Hi 👋! My name is Anjali Barde </h2>
 
 ###
 
