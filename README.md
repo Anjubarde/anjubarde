@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on my Skills and Project<br><br>🌱 I’m currently learning C, C++, Java and Logic Building with DSA <br><br>❓ Ask me about anything related to C, C++, Java and related technologies</p>
+<p align="left">🔭 I’m currently working on my Skills and Project<br><br>🌱 I’m currently learning C, C++, Java , Spring Boot and Logic Building with DSA <br><br>❓ Ask me about anything related to C, C++, Java and related technologies</p>
 
 ###
 
